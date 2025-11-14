@@ -1,0 +1,3 @@
+model_checkpoint_path: "Model"
+all_model_checkpoint_paths: "..\\..\\..\\saved_models\\Case39_12000\\Model"
+all_model_checkpoint_paths: "Model"
